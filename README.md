@@ -40,9 +40,7 @@ A modern, beautiful Android AI chatbot application powered by Google's Gemini 2.
 - **Loading states** with visual feedback
 - **Snackbar notifications** for errors
 
-## 📱 Screenshots
 
-> Add screenshots of your app here
 
 ## 🛠 Tech Stack
 
@@ -244,8 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **GitHub**: [@Humble-Coders](https://github.com/Humble-Coders)
-- **Email**: support@humblecoders.com
+- **GitHub**: [@Nuthan-Reddy](https://github.com/Nuthan-Reddy-Surukunti)
+- **Email**: surkuntinuthanreddy@gmail.com
 
 ## 🗺 Roadmap
 
@@ -263,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/Humble-Coders">Humble Coders</a>
+  Made with ❤️ by <a href="https://github.com/Nuthan-Reddy-Surukunti">Nuthan Reddy</a>
 </div>
   - Current placeholder is empty: `apiKey = ""`
   - Replace with your key: `apiKey = "YOUR_API_KEY"`
@@ -290,7 +288,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Persist conversation to local storage
 - Error and retry UI states
 
-### License
-Specify a license for this project (e.g., MIT) or add a `LICENSE` file.
+
 
 
